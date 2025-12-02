@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "きらいな人",
+  "base_artist": "ネクライトーキー",
+  "createdAt": "2025-12-02T06:58:46.389441Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "きらいな人",
+      "artist": "Necry Talkie",
+      "has_synced": true,
+      "path": "select/01_きらいな人_Necry_Talkie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きらいな人",
+      "artist": "ネクライトーキー",
+      "has_synced": false,
+      "path": "select/pl_01_きらいな人_ネクライトーキー.txt"
+    }
+  ]
+}
